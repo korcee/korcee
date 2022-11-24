@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korcee
-- 👀 I’m interested in HTML, CSS, JavaScript, Python and Java
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Software Engineering in middle school
 - 📫 How to reach me -> in e-mail: korcika2005@gmail.com
 
